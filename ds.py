@@ -1,5 +1,4 @@
 import streamlit as st
-import matplotlib.pyplot as plt
 from rake_nltk import Rake
 import spacy
 from textblob import TextBlob
